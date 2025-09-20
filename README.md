@@ -51,3 +51,10 @@ npm install
 json-server --watch .\src\jsonserver\db.json --port 5000
 ### 5-Start
 npm run dev
+
+
+
+![login page](ss/login.png)
+![home page](ss/home.png)
+![basket](ss/basket.png)
+
