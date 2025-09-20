@@ -1,0 +1,14 @@
+.login-container{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;  
+    background: linear-gradient(135deg, #fdf6e3, #fbe9d6, #f9e4c8);}
+.form-container{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.form {
+width: 300px;
+}   

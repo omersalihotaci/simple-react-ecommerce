@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    align-items: center;
+    height: 70vh;
+    margin-top: 90px;
+}
+.text-container{
+    width: 600px;
+    margin-left: 100px;
+
+}
+.btn-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.btn{
+    width: 40px;
+    height: 40px;
+    background-color: rgb(177, 164, 164);
+    cursor: pointer;
+    border-radius: 50%;
+    border: none;
+    font-size: 25px;
+    margin: 20px;
+    
+}
+.add-btn{
+    width: 100px;
+    height: 40px;
+    background-color: red;
+    cursor: pointer;
+    border: none;
+    font-size: 15px;
+    color: white;
+    border-radius: 30px;
+}
